@@ -44,5 +44,3 @@ python3 predict.py image.jpg
 > The original dataset is not included in this repository. A small sample dataset is provided for demonstration.
 
 ---
-
-Made by **Gauri Verma**
